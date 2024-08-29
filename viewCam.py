@@ -55,4 +55,4 @@ def opencam(input):
         cap.release()
         cv2.destroyAllWindows()
 
-#opencam(0)
+

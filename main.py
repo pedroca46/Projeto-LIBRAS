@@ -1,8 +1,5 @@
 import os
 from utils import predictRT
-from utils import mediapipe_detection
-from utils import draw_styled_landmarks
-from utils import extract_keypoints
 from utils import trainNpyFile
 from viewCam import opencam
 from numpy import array
