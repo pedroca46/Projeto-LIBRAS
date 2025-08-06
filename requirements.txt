@@ -1,7 +1,7 @@
 numpy==1.19.5
 tensorflow==2.4.1
 tensorflow-gpu==2.4.1
-opencv-python
-mediapipe
-scikit-learn
+opencv-python==4.5.1.48
+mediapipe==0.8.6
+scikit-learn==0.24.2
 matplotlib==3.5.3
